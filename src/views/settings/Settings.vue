@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Toolbar :icon="Settings">
+    <Toolbar :icon="Settings" show-search>
       <template #title>
         <v-breadcrumbs :items="breadcrumbItems" class="pa-0" />
       </template>
