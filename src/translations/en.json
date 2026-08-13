@@ -2285,5 +2285,11 @@
     "searching": "Searching...",
     "menu": "Menu",
     "home_assistant_menu": "Home Assistant",
-    "main_navigation": "Main"
+    "main_navigation": "Main",
+    "pages": "Pages",
+    "recent_searches": "Recent searches",
+    "see_all_results": "See all results for \"{0}\"",
+    "command_center_navigate": "navigate",
+    "command_center_open": "open",
+    "command_center_keep_typing": "Keep typing to search..."
 }
